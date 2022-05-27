@@ -1,0 +1,51 @@
+.color-gray, .card-text{
+    color: gray;
+    margin: 30px 0px 30px 0px;
+}
+.buy-now-btn{
+    padding: 10px 20px;
+    background: #000000;
+    color: #ffffff;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+}
+.space{
+    margin-bottom: 80px;
+}
+.space-small{
+    margin-bottom: 50px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+    text-align: center;
+    padding: 10px;
+    line-height: 1.5rem;
+    border-radius: 10px;
+}
+.redius{
+    background: tomato;
+    border-radius: 20px;
+}
+.space-small > p{
+    color: orange;
+    cursor: pointer;
+}
+
+.text{
+    background: #fff;
+    padding: 50px;
+    border-radius: 5px 20px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.price{
+    font-weight: bold;
+}
+.categories{
+    text-align: center;
+}
+.bg{
+    background: tomato;
+    height: 100px;
+}
